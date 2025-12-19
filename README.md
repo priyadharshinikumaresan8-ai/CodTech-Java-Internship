@@ -1,6 +1,10 @@
 # CodTech Java Internship
 
-## Internship Details
+## Intern and Internship Details
+- Name: Priyadharshini
+- College: PSNA College of Engineering and Technology
+- Department: Biomedical Engineering
+- Intern ID:CTIS0572
 - Company: CodTech IT Solutions
 - Internship Role: Java Programming Intern
 - Mode: Online
@@ -19,7 +23,4 @@ The internship focuses on strengthening core Java concepts through practical cod
 - Task 2: (Will be updated)
 - Task 3: (Will be updated)
 
-## Intern Details
-- Name: Priyadharshini
-- College: PSNA College of Engineering and Technology
-- Department: Biomedical Engineering
+
