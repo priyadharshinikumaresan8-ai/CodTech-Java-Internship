@@ -21,6 +21,7 @@ This task improves knowledge of file management in Java.
 
 ## Outcome
 Gained practical knowledge of file operations in Java.
+<img width="1218" height="712" alt="image" src="https://github.com/user-attachments/assets/10e93a23-bca0-418b-a299-59206683e81a" />
 
 
 
