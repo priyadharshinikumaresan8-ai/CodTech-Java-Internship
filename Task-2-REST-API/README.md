@@ -23,12 +23,12 @@ This task helps understand API integration in Java.
 
 ## Outcome
 Raw JSON Response:
-{"latitude":13.08,"longitude":80.27,"generationtime_ms":0.3,"utc_offset_seconds":0,
-"timezone":"GMT","timezone_abbreviation":"GMT","elevation":6.0,
-"current_weather":{"temperature":31.2,"windspeed":14.5,"winddirection":180,
-"weathercode":1,"time":"2025-09-01T06:30"}}
-
---- Weather Information ---
-Temperature: 31.2 °C
-Wind Speed : 14.5 km/h
+{"latitude":13.08,"longitude":80.27,"generationtime_ms":0.3,"utc_offset_seconds":0,                                                                                 
+"timezone":"GMT","timezone_abbreviation":"GMT","elevation":6.0,                                                                                                     
+"current_weather":{"temperature":31.2,"windspeed":14.5,"winddirection":180,                                                                                         
+"weathercode":1,"time":"2025-09-01T06:30"}}                                                                                                                         
+                                                                                                                                                                    
+--- Weather Information ---                                                                                                                                         
+Temperature: 31.2 °C                                                                                                                                                
+Wind Speed : 14.5 km/h                                                                                                                                               
 
