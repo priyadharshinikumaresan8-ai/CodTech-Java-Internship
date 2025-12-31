@@ -19,3 +19,17 @@ This task improves understanding of networking and threading concepts.
 
 ## Outcome
 Learned how real-time communication works using Java networking and threads.
+
+Connected to Chat Server
+
+You: Hello
+
+Server: Hello Client
+
+You: How are you?
+
+Server: I am fine
+
+You: Bye
+
+Server: Goodbye
