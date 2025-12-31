@@ -19,7 +19,7 @@ This task improves understanding of networking and threading concepts.
 
 ## Outcome
 Learned how real-time communication works using Java networking and threads.
-
+CHATCLIENT OUTPUT:
 Connected to Chat Server
 
 You: Hello
@@ -33,3 +33,18 @@ Server: I am fine
 You: Bye
 
 Server: Goodbye
+
+CHATSERVER OUTPUT:
+
+Chat Server started on port 5000...
+
+New client connected.
+
+Client: Hello
+
+Client: How are you?
+
+Client: Bye
+
+
+
