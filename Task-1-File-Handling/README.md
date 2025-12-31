@@ -23,5 +23,57 @@ This task improves knowledge of file management in Java.
 Gained practical knowledge of file operations in Java.
 <img width="1218" height="712" alt="image" src="https://github.com/user-attachments/assets/10e93a23-bca0-418b-a299-59206683e81a" />
 
+--- File Handling Utility ---
 
+1. Write to file
+   
+2. Read file
+   
+3. Modify file (Append)
+   
+4. Exit
+   
+Enter your choice: 1
+
+Enter text to write into file: Hello File Handling
+
+Data written successfully.
+
+
+--- File Handling Utility ---
+
+Enter your choice: 2
+
+
+File Content:
+
+Hello File Handling
+
+
+--- File Handling Utility ---
+
+Enter your choice: 3
+
+Enter text to append: Java Internship Task
+
+File modified successfully.
+
+
+--- File Handling Utility ---
+
+Enter your choice: 2
+
+
+File Content:
+
+Hello File Handling
+
+Java Internship Task
+
+
+--- File Handling Utility ---
+
+Enter your choice: 4
+
+Exiting program...
 
